@@ -8,8 +8,8 @@ insert_bibtex_here.
 
 - `auditor.py` contains the open-source module developed in our work: a Python auditor for DP graph release mechanisms.
 - `example_metrics.py` contains example function definitions of witness metrics for use in our auditor.
-- `example_usage.py` provides an example usage on a toy graph dataset (Zachary's Karate Club) and the case study mechanism (PrivDPR).
-- `documentation.pdf` contains full documentation of our auditor module.
+- `example_usage.py` provides example usage on a toy graph dataset (Zachary's Karate Club) and the mechanism used in our case study (PrivDPR).
+- `documentation.pdf` contains the documentation of our auditor module.
 - `requirements.txt` contains the Python dependencies for the module.
 - `case_study/` contains an instantiation of our auditor on a real-world graph mechanism.
   - `case_study/Data` contains the datasets used and canary construction code.
