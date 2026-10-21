@@ -29,4 +29,6 @@ Please note that due to file and repository size limitations, as well as usabili
   - For the mechanism and implementation used in our case study.
  
 ## Datasets
-- 
+- Michael Fire, Rami Puzis, and Yuval Elovici. 2013. Link Prediction in Highly Fractional Data Sets. Springer New York, New York, NY, 283–300. doi:10.1007/978-1-4614-5311-6_14
+- Karissa Rae McKelvey and Filippo Menczer. 2013. Truthy: enabling the study of online social networks. In Proceedings of the 2013 Conference on Computer Supported Cooperative Work Companion (San Antonio, Texas, USA) (CSCW ’13). Association for Computing Machinery, New York, NY, USA, 23–26. doi:10.1145/2441955.2441962
+- Wayne W. Zachary. 1977. An Information Flow Model for Conflict and Fission in Small Groups. Journal of Anthropological Research 33, 4 (1977), 452–473. doi:10.1086/jar.33.4.3629752
