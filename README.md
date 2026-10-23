@@ -1,6 +1,6 @@
 # Artefacts for "Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study"
 
-This repository contains the artefacts for "Practical Auditing of Differentially Prviate Graph Release Mechanisms: Methodology, Toolkit, and Case Study" by Nicholas D'Silva, Surya Nepal, and Salil S. Kanhere (2027). The article is available [here](). If you use this repository, please cite the following [work]():
+This repository contains the artefacts for "Practical Auditing of Differentially Prviate Graph Release Mechanisms: Methodology, Toolkit, and Case Study" by Nicholas D'Silva, Surya Nepal, and Salil S. Kanhere (2027). The article is available [here](https://arxiv.org/abs/2610.31294). If you use this repository, please cite the following work:
 
 ```bibtex
 @misc{Dsilva26,
