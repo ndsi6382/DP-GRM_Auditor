@@ -3,7 +3,15 @@
 This repository contains the artefacts for "Practical Auditing of Differentially Prviate Graph Release Mechanisms: Methodology, Toolkit, and Case Study" by Nicholas D'Silva, Surya Nepal, and Salil S. Kanhere (2027). The article is available [here](). If you use this repository, please cite the following [work]():
 
 ```bibtex
-insert_bibtex_here.
+@misc{Dsilva26,
+      title={Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study}, 
+      author={Nicholas D'Silva and Surya Nepal and Salil S. Kanhere},
+      year={2026},
+      eprint={2610.31294},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2610.31294}, 
+}
 ```
 
 - `auditor.py` contains the open-source module developed in our work: a Python auditor for DP graph release mechanisms.
